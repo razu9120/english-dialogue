@@ -1,0 +1,42 @@
+{
+  "title": "At the Cafe",
+  "description": "Ordering a coffee and a pastry.",
+  "category": "Daily Conversation",
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "Alice",
+      "voice_setting": "af_bella",
+      "text": "Hello! I'd like a double espresso, please.",
+      "translation": "こんにちは！ダブルのエスプレッソをください。"
+    },
+    {
+      "turn_id": 2,
+      "speaker": "Bob",
+      "voice_setting": "am_adam",
+      "text": "Sure thing! Would you like anything else with that?",
+      "translation": "かしこまりました！ご一緒にいかがですか？"
+    },
+    {
+      "turn_id": 3,
+      "speaker": "Alice",
+      "voice_setting": "af_bella",
+      "text": "Yes, a blueberry muffin would be great.",
+      "translation": "はい、ブルーベリーマフィンをお願いします。"
+    },
+    {
+      "turn_id": 4,
+      "speaker": "Alice",
+      "voice_setting": "af_bella",
+      "text": "Actually, make that two muffins.",
+      "translation": "やっぱり、マフィンは2つにしてください。"
+    },
+    {
+      "turn_id": 5,
+      "speaker": "Bob",
+      "voice_setting": "am_adam",
+      "text": "No problem. That'll be eight dollars in total.",
+      "translation": "承知しました。合計で8ドルになります。"
+    }
+  ]
+}

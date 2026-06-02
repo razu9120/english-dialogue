@@ -1,0 +1,54 @@
+{
+  "id": "01-at-the-cafe",
+  "slug": "01-at-the-cafe",
+  "title": "At the Cafe",
+  "description": "Ordering a coffee and a pastry.",
+  "category": "Daily Conversation",
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "Alice",
+      "voice_setting": "af_bella",
+      "text": "Hello! I'd like a double espresso, please.",
+      "translation": "こんにちは！ダブルのエスプレッソをください。",
+      "audio_path": "/audio/01-at-the-cafe/1.mp3",
+      "audio_hash": "0c93a2e90001438b"
+    },
+    {
+      "turn_id": 2,
+      "speaker": "Bob",
+      "voice_setting": "am_adam",
+      "text": "Sure thing! Would you like anything else with that?",
+      "translation": "かしこまりました！ご一緒にいかがですか？",
+      "audio_path": "/audio/01-at-the-cafe/2.mp3",
+      "audio_hash": "aef2a49e7586f39e"
+    },
+    {
+      "turn_id": 3,
+      "speaker": "Alice",
+      "voice_setting": "af_bella",
+      "text": "Yes, a blueberry muffin would be great.",
+      "translation": "はい、ブルーベリーマフィンをお願いします。",
+      "audio_path": "/audio/01-at-the-cafe/3.mp3",
+      "audio_hash": "e1d6d7a08f076cac"
+    },
+    {
+      "turn_id": 4,
+      "speaker": "Alice",
+      "voice_setting": "af_bella",
+      "text": "Actually, make that two muffins.",
+      "translation": "やっぱり、マフィンは2つにしてください。",
+      "audio_path": "/audio/01-at-the-cafe/4.mp3",
+      "audio_hash": "d5466a2836da785a"
+    },
+    {
+      "turn_id": 5,
+      "speaker": "Bob",
+      "voice_setting": "am_adam",
+      "text": "No problem. That'll be eight dollars in total.",
+      "translation": "承知しました。合計で8ドルになります。",
+      "audio_path": "/audio/01-at-the-cafe/5.mp3",
+      "audio_hash": "93832b1ce4550cf0"
+    }
+  ]
+}
